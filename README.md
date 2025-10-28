@@ -30,7 +30,7 @@ The notebook generates two main visualizations:
 
 1. Representational Dissimilarity Matrices (RDMs)
 
-![Text](rdms.png)
+![RDMs for the two models](rdms.png)
 
 This plot shows the 30x30 RDMs for both models as heatmaps.
 
@@ -40,7 +40,7 @@ This plot shows the 30x30 RDMs for both models as heatmaps.
 
 2. Second-Order Dissimilarity Matrix
 
-![Text](second_order_plot.png)
+![Second Order Dissimilarity Plot](second_order_plot.png)
 
 This 2x2 heatmap compares the two RDMs against each other. It's a "similarity of similarities" analysis.
 
